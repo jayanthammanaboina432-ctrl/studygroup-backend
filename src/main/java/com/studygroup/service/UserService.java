@@ -1,4 +1,4 @@
-﻿package com.studygroup.service;
+package com.studygroup.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.studygroup.model.User;
